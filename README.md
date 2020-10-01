@@ -2,7 +2,11 @@
 
 This application performs first time programming and a basic functional test of the EVAL-ADIS-FX3 IMU evaluation board from Analog Devices.
 
-![Running Application](images/finished.PNG)
+![Running Application](images/prod_test_animated.gif)
+
+## Test Procedure
+
+The test procedure for testing EVAL-ADIS-FX3 boards is located [here]([EVAL-ADIS-FX3 Test Procedure.md](https://github.com/juchong/EVAL-ADIS-FX3-Production-Test/blob/master/EVAL-ADIS-FX3 Test Procedure.md)).
 
 ## Hardware Requirements
 
