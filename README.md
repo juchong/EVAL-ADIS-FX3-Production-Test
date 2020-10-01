@@ -6,7 +6,7 @@ This application performs first time programming and a basic functional test of 
 
 ## Test Procedure
 
-The test procedure for testing EVAL-ADIS-FX3 boards is located [here]([EVAL-ADIS-FX3 Test Procedure.md](https://github.com/juchong/EVAL-ADIS-FX3-Production-Test/blob/master/EVAL-ADIS-FX3 Test Procedure.md)).
+The test procedure for testing EVAL-ADIS-FX3 boards is located [here](EVAL-ADIS-FX3 Test Procedure.md).
 
 ## Hardware Requirements
 
